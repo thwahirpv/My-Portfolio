@@ -2095,3 +2095,64 @@ span.error {
 .gsap-reveal-img .reveal-wrap .reveal-content .portfolio-item-content h3 {
   margin-bottom: 10px;
 }
+.error {
+  border-bottom: solid 1px #ff3860 !important;
+}
+.success{
+  border-bottom: solid 1px #09c372 !important;
+}
+.err-coment{
+  font-size: 11px;
+  font-weight: 800;
+  height: 15px;
+}
+.hero-img{
+ width: 530px;
+ margin: auto;
+ position: absolute;
+ top: 1rem;
+}
+.bg-color {
+  background: #00000054;
+  height: 100%;
+}
+.img-size {
+  width: 500px;
+}
+.back-image-1 {
+  background-image: url(/images/Instyleduccer.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.back-image-2 {
+  background-image: url(/images/mt-portfolio.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.back-image-3 {
+  background-image: url(/images/portfolio.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.back-image-4 {
+  background-image: url(/images/Human-game.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.back-image-5 {
+  background-image: url(/images/Horo-Finder.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.back-image-6 {
+  background-image: url(/images/RPS.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+  
